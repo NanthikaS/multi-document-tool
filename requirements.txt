@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+docx
+pythoncom
+win32com.client
+pillow
+transformers
